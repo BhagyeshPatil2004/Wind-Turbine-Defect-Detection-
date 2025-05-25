@@ -1,4 +1,5 @@
-#📌 Automated Defect Detection in Wind Turbines using YOLOv8
+📌 #Automated Defect Detection in Wind Turbines using YOLOv8
+
 This project is an AI-powered defect detection system designed to identify structural flaws in wind turbines—such as cracks, corrosion, and surface wear—using computer vision and deep learning techniques. Built with YOLOv8, the system delivers real-time detection with 96%+ accuracy and integrates a cloud-based dashboard for remote monitoring and alerts.
 
 🚀 Features
