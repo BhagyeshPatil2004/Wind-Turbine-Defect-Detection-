@@ -1,45 +1,44 @@
-📌 #Automated Defect Detection in Wind Turbines using YOLOv8
-
-This project is an AI-powered defect detection system designed to identify structural flaws in wind turbines—such as cracks, corrosion, and surface wear—using computer vision and deep learning techniques. Built with YOLOv8, the system delivers real-time detection with 96%+ accuracy and integrates a cloud-based dashboard for remote monitoring and alerts.
+📌 Automated Defect Detection in Wind Turbines using YOLOv8
+An AI-powered system for real-time defect detection in wind turbines using computer vision and deep learning. The solution identifies surface-level defects like cracks, corrosion, and wear using YOLOv8 and offers a cloud-integrated dashboard for visualization and alerting.
 
 🚀 Features
 🔍 Real-time defect detection using YOLOv8
 
-📷 High-resolution image input via static or drone cameras
+📷 High-res image input via static or drone cameras
 
-📊 Interactive Streamlit dashboard for visualization
+📊 Interactive dashboard built with Streamlit
 
-☁️ Cloud deployment (AWS/GCP) for remote access
+☁️ Cloud deployment on AWS/GCP for remote monitoring
 
-📧 Instant alerts via Email/SMS using SMTP & Twilio
+📧 Alerts via Email/SMS using SMTP and Twilio
 
-🧠 Trained on custom defect datasets with PyTorch
+🧠 Easy retraining on new defect types or domains
 
 🛠️ Tech Stack
-Python, OpenCV, PyTorch
+Languages & Frameworks: Python, OpenCV, PyTorch
 
-YOLOv8 (Ultralytics)
+Model: YOLOv8 (Ultralytics)
 
-Flask (API backend)
+Backend: Flask
 
-Streamlit (Dashboard)
+Frontend: Streamlit
 
-AWS EC2, S3, SMTP, Twilio
+Cloud: AWS EC2, S3
+
+Notifications: SMTP, Twilio
 
 🧪 Results
-Crack detection confidence: 97.2%
+Accurate detection of various defects (cracks, corrosion, wear)
 
-Corrosion detection: 94.1%
+Real-time processing with low latency (~2s per image)
 
-Sub-2s image processing latency
+Fully tested across diverse use cases
 
-Extensive testing across 5+ real-world scenarios
+📈 Adaptability
+The system is modular and can be extended to other domains:
 
-📈 Scope & Adaptability
-Although tailored for wind turbines, the architecture is adaptable for:
+🚗 Automotive (paint, surface defects)
 
-Automotive (paint/surface inspection)
+🧵 Textile (weaving faults, misprints)
 
-Textile (weaving faults)
-
-Infrastructure (bridge/building cracks)
+🏗 Infrastructure (bridge/building inspections)
