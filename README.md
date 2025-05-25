@@ -24,7 +24,7 @@ An AI-powered system for real-time defect detection in wind turbines using compu
 ## 🧪 Results
 
 - Detects cracks, corrosion, surface wear  
-- Real-time performance (~2s per image)  
+- Real-time performance
 - Robust across varying lighting and image quality  
 
 ---
