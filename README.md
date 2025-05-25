@@ -17,7 +17,6 @@ An AI-powered system for real-time defect detection in wind turbines using compu
 
 - **Languages & Frameworks**: Python, OpenCV, PyTorch  
 - **Model**: YOLOv8 (Ultralytics)  
-- **Backend**: Flask  
 - **Frontend**: Streamlit    
 
 ---
