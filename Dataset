@@ -2,3 +2,7 @@
 
 DataSet Link:
 https://app.roboflow.com/fire-c9x8o/turbine-blade-detection-egmyk/browse?queryText=&pageSize=50&startingIndex=0&browseQuery=true
+
+
+"If you're unfamiliar with how to set up YOLO, I recommend checking out tutorials on YouTube. Additionally, you can refer to the official Ultralytics GitHub repository for guidance":
+https://github.com/ultralytics/ultralytics
