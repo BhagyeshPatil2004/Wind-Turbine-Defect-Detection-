@@ -8,9 +8,7 @@ An AI-powered system for real-time defect detection in wind turbines using compu
 
 - 🔍 **Real-time defect detection** using YOLOv8  
 - 📷 **High-res image input** via static or drone cameras  
-- 📊 **Interactive dashboard** built with Streamlit  
-- ☁️ **Cloud deployment** on AWS/GCP  
-- 📧 **Alerts** via Email/SMS using SMTP & Twilio  
+- 📊 **Interactive dashboard** built with Streamlit   
 - 🧠 **Retrainable** for new defect types or domains  
 
 ---
@@ -20,9 +18,7 @@ An AI-powered system for real-time defect detection in wind turbines using compu
 - **Languages & Frameworks**: Python, OpenCV, PyTorch  
 - **Model**: YOLOv8 (Ultralytics)  
 - **Backend**: Flask  
-- **Frontend**: Streamlit  
-- **Cloud**: AWS EC2, S3  
-- **Notifications**: SMTP, Twilio  
+- **Frontend**: Streamlit    
 
 ---
 
