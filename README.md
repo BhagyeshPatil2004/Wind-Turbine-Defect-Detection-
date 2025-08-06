@@ -39,4 +39,3 @@ This architecture can be applied in:
 
 
 
-[Report.pdf](https://github.com/user-attachments/files/21613167/Report.pdf)
