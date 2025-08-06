@@ -36,3 +36,7 @@ This architecture can be applied in:
 - 🚗 **Automotive**: Paint & surface inspection  
 - 🧵 **Textile**: Fault detection in weaving or patterns  
 - 🏗 **Infrastructure**: Bridge & building inspections  
+
+
+
+[Report.pdf](https://github.com/user-attachments/files/21613167/Report.pdf)
